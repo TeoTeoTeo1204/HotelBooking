@@ -3,7 +3,7 @@
   <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Tefo Hotel - HOME PAGE</title>
+      <title>Tefo Hotel - HOME PAGE- fix</title>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
       <?php require('/xampp/htdocs/hotelbooking/inc/links.php');?>
 
